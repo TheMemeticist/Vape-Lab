@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   enable-background="new 0 0 24 24"
+   height="24px"
+   viewBox="0 0 24 24"
+   width="24px"
+   fill="#000000"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="vapourLab.svg"
+   inkscape:version="1.1.2 (08b2f3d93c, 2022-04-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="17.875"
+     inkscape:cx="6.3216783"
+     inkscape:cy="13.818182"
+     inkscape:window-width="1557"
+     inkscape:window-height="778"
+     inkscape:window-x="241"
+     inkscape:window-y="219"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg10" />
+  <g
+     id="g4">
+    <rect
+       fill="none"
+       height="24"
+       width="24"
+       id="rect2" />
+  </g>
+  <g
+     id="g8"
+     style="fill:#00a3c4;fill-opacity:1;opacity:0.73493416">
+    <path
+       d="M19.8,18.4L14,10.67V6.5l1.35-1.69C15.61,4.48,15.38,4,14.96,4H9.04C8.62,4,8.39,4.48,8.65,4.81L10,6.5v4.17L4.2,18.4 C3.71,19.06,4.18,20,5,20h14C19.82,20,20.29,19.06,19.8,18.4z"
+       id="path6"
+       style="fill:#00a3c4;fill-opacity:1" />
+  </g>
+  <g
+     style="fill:#000000"
+     id="g37"
+     transform="translate(1.3,0.4)">
+    <g
+       id="g18">
+      <path
+         d="M 0,0 H 24 V 24 H 0 Z"
+         fill="none"
+         id="path16" />
+    </g>
+    <g
+       id="g24"
+       style="fill:#5dd39e;fill-opacity:1">
+      <g
+         id="g22"
+         style="fill:#5dd39e;fill-opacity:1">
+        <path
+           d="m 14.5,17 c 0,1.65 -1.35,3 -3,3 -1.65,0 -3,-1.35 -3,-3 h 2 c 0,0.55 0.45,1 1,1 0.55,0 1,-0.45 1,-1 0,-0.55 -0.45,-1 -1,-1 H 2 v -2 h 9.5 c 1.65,0 3,1.35 3,3 z M 19,6.5 C 19,4.57 17.43,3 15.5,3 13.57,3 12,4.57 12,6.5 h 2 C 14,5.67 14.67,5 15.5,5 16.33,5 17,5.67 17,6.5 17,7.33 16.33,8 15.5,8 H 2 v 2 H 15.5 C 17.43,10 19,8.43 19,6.5 Z M 18.5,11 H 2 v 2 h 16.5 c 0.83,0 1.5,0.67 1.5,1.5 0,0.83 -0.67,1.5 -1.5,1.5 v 2 C 20.43,18 22,16.43 22,14.5 22,12.57 20.43,11 18.5,11 Z"
+           id="path20"
+           style="fill:#5dd39e;fill-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>
