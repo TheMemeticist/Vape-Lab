@@ -5,4 +5,4 @@ Vapour Lab air filter unit calculator javascript library based on the latest eng
 
 [See example.js](https://github.com/TheMemeticist/Vapour-Lab/blob/main/js/example.js) on usage for estimating CR-Boxes given a space. Then you can add or reference the library in your site.
 
-*Consult your local HVAC specialists. This software has not yet gained cerfification.
+*Consult your local HVAC specialists. This software is not yet certified.
