@@ -5,7 +5,7 @@ This is the todo file for Vapour Labratory.
 - [X] Housekeeping
   - [x] Rename Variables
   - [x] Refractor
-  - [x] Toss Junk
+  - [x] Clean Junk
 
 ## Release
 - [x] Init project repository
